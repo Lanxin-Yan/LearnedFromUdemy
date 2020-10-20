@@ -9,6 +9,7 @@ public class ArrayDisp{
 
 
     public static void main(String[] args){
+
         String[] names = new String[10];
         names[1] = "Jax";
         names[2] = "Warwick";
