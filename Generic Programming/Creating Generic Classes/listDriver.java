@@ -1,6 +1,6 @@
 public class listDriver {
     public static void main(String[] args){
-        list<String> cars = new list<>(20); 
+        list<String> cars = new list<String>(20); 
         cars.add("Audi");
         cars.add("Range Rover");
         cars.add("Aston Martin");
